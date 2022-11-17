@@ -27,6 +27,7 @@ class AntArchiverIntegrationTest extends Specification {
                                                    'settings.gradle',
                                                    'gradle/wrapper/gradle-wrapper.jar',
                                                    'gradle/wrapper/gradle-wrapper.properties',
+          
                                                    'src/main/java/Main.java']
 
     def setup() {

@@ -7,7 +7,7 @@ Gradle Initializer provides a web-based service for generating quickstart Gradle
 
 The web user interface is available by opening the URL link:https://gradle-initializr.cleverapps.io/[https://gradle-initializr.cleverapps.io/] in the browser of your choice. Simply select the options for your target project and press the "Generate" button to download the archive containing the project files.
 
-== Using curl
+== Using curl000000000000000000
 
 Gradle Initializer can generate and download projects from the terminal with the help of the `curl` command. By default, the generated type is a plain Gradle project using the latest, packaged version of the Gradle Wrapper.
 
